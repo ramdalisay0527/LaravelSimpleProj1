@@ -1,0 +1,43 @@
+input{
+    border-style: solid;
+    border-color:black; 
+}
+#content-post{
+    border-color: black;
+    border-style: solid;
+}
+#content-form{
+    padding-left: 100px;
+}
+#content-right{
+    padding-right: 100px;
+}
+#MessageBox{
+    border-style: solid;
+    border-color: black;
+    background-color: red;
+}
+
+table{ 
+    font-family: Verdana, Arial, Helvetica, sans-serif; 
+}
+caption{ 
+    font-weight: bold; 
+}
+th{ 
+    font-weight: bold; background-color: blue; color: white; padding: 2px; 
+}
+td{ 
+    padding: 2px; 
+}
+/* tr { background-color: white; } */
+
+.bordered{ 
+    border: solid; border-width: thin; 
+}
+.bordered td{ 
+    border: solid; border-width: thin; 
+}
+.bordered th{ 
+    border: solid; border-width: thin; border-color: black; 
+}
